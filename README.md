@@ -1,16 +1,8 @@
----
-title: "RainbowBar"
-author: "J. M. A. Wojahn"
-date: "2024-07-19"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # RainbowBar
 An R-package to make a rainbow progress bar.
+
+by John M. A. Wojahn
+the maker of G2PMineR!
 
 ## How to install RainbowBar
 
