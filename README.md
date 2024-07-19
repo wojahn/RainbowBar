@@ -2,6 +2,7 @@
 An R-package to make a rainbow progress bar.
 
 by John M. A. Wojahn
+
 the maker of G2PMineR!
 
 ## How to install RainbowBar
