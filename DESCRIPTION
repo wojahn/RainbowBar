@@ -1,0 +1,11 @@
+Package: RainbowBar
+Type: Package
+Title: Rainbow Progress Bar
+Version: 0.1.0
+Author: John M. A. Wojahn
+Maintainer: The package maintainer <johnmichaelwojahn@gmail.com>
+Description: Rainbow progress bar written by a gay man
+License: CC BY-NC-SA https://creativecommons.org/share-your-work/cclicenses/
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
